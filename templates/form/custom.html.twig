@@ -1,0 +1,12 @@
+{% block _map_objects_map_widget %}
+    <div id="map" style="height: 600px;width:1200px;"></div>
+    <script>
+        var GameObjects = [
+            {% for obj in easyadmin.item.objects %}
+                [{{ obj.posX }}, {{ obj.posY }}],
+            {% endfor %}
+        ];
+
+        var mapImageUrl = '{{ app.request.uriForPath('/assets/images/gtasa_map.png') }}';
+    </script>
+{% endblock %}

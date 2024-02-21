@@ -1,0 +1,160 @@
+[02:38:18] [INFO] [change] [Vincent Dabrasco] [playerid 0] Changing name from [felipe] to [Vincent Dabrasco].
+[02:38:19] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7132 USD. Bank: 0 USD. Played: 17h 37m. IP: 127.0.0.1
+[02:38:19] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[02:38:19] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[02:38:24] [INFO] [chat] [Vincent Dabrasco] [a:0] a
+[02:38:26] [INFO] [chat] [Vincent Dabrasco] [a:0] test
+[02:38:26] [INFO] [RP:me] [Vincent Dabrasco] do
+[02:38:27] [INFO] [RP:do] [Vincent Dabrasco] me
+[02:38:30] [INFO] [RP:me] [Vincent Dabrasco] test me
+[02:38:32] [INFO] [RP:do] [Vincent Dabrasco] test do
+[02:38:33] [INFO] [RP:try] [Vincent Dabrasco] test try
+[02:38:35] [INFO] [RP:try] [Vincent Dabrasco] test try
+[02:39:35] [INFO] [death] [Vincent Dabrasco] self-reported or system-called death. Killer: 65535, reason: 54
+[02:39:52] [INFO] [admin] [bw] [Vincent Dabrasco] Vincent Dabrasco
+[02:41:20] [INFO] [admin] [cars] [Vincent Dabrasco] teleported vehicle 9 to his location (1123.546142, -1395.626586, 12.419731)
+[02:41:20] [INFO] [cars] [vUID:9] [Vincent Dabrasco] Entered vehicle 9 (Firetruck), seat 0 (fuel 143)
+[02:41:21] [INFO] [cars] [vUID:9] [Vincent Dabrasco] Exited vehicle 9 (Firetruck)
+[02:41:26] [INFO] [admin] [cars] [Vincent Dabrasco] teleported vehicle 39 to his location (1114.765502, -1395.982910, 12.399710)
+[02:41:26] [INFO] [cars] [vUID:39] [Vincent Dabrasco] Entered vehicle 39 (Sultan), seat 0 (fuel 99)
+[02:41:30] [INFO] [cars] [vUID:39] [Vincent Dabrasco] Exited vehicle 39 (Sultan)
+[02:41:34] [INFO] [cars] [vUID:39] [Vincent Dabrasco] Entered vehicle 39 (Sultan), seat 0 (fuel 98)
+[02:41:39] [INFO] [cars] [vUID:39] [Vincent Dabrasco] Exited vehicle 39 (Sultan)
+[02:41:44] [INFO] [weapon] [Vincent Dabrasco] Shot from M4 [hittype:0, hitid:65535] x0.000000 y0.000000 z0.000000
+[02:41:45] [INFO] [weapon] [Vincent Dabrasco] Shot from M4 [hittype:0, hitid:65535] x1043.278198 y-1411.383056 z15.666506
+[02:41:47] [INFO] [weapon] [Vincent Dabrasco] Shot from M4 [hittype:2, hitid:2] x-0.417846 y1.164062 z0.367561
+[02:42:57] [INFO] [cars] [vUID:39] [Vincent Dabrasco] Entered vehicle 39 (Sultan), seat 0 (fuel 98)
+[02:43:03] [INFO] [cars] [vUID:39] [Vincent Dabrasco] [Damage] Vehicleid: 2. Damage: 1000.00->935.21 (delta 64.78). Driver: Vincent Dabrasco
+[02:43:09] [INFO] [admin] [Vincent Dabrasco] set [Vincent Dabrasco] 100 health
+[02:43:17] [INFO] [cars] [vUID:39] [Vincent Dabrasco] [Damage] Vehicleid: 2. Damage: 935.21->894.23 (delta 40.97). Driver: Vincent Dabrasco
+[02:43:51] [INFO] [cars] [vUID:39] [Vincent Dabrasco] [Damage] Vehicleid: 2. Damage: 894.23->818.35 (delta 75.88). Driver: Vincent Dabrasco
+[02:43:58] [INFO] [cars] [vUID:39] [Vincent Dabrasco] [Damage] Vehicleid: 2. Damage: 818.35->751.49 (delta 66.85). Driver: Vincent Dabrasco
+[02:43:58] [INFO] [cars] [vUID:39] [Vincent Dabrasco] [Damage] Vehicleid: 2. Damage: 751.49->749.76 (delta 1.72). Driver: Vincent Dabrasco
+[02:43:59] [INFO] [cars] [vUID:39] [Vincent Dabrasco] Exited vehicle 39 (Sultan)
+[02:44:02] [INFO] [admin] [cars] [Vincent Dabrasco] Repair visual damage of vehicle UID 39
+[02:44:06] [INFO] [admin] [cars] [Vincent Dabrasco] Changed vehicle 39 health to 1000.000000
+[02:44:11] [INFO] [admin] [cars] [Vincent Dabrasco] Changed vehicle 39 model to 560
+[02:44:15] [INFO] [admin] [cars] [Vincent Dabrasco] forced vehicle 563 to spawn
+[02:44:20] [INFO] [admin] [cars] [Vincent Dabrasco] forced vehicle 39 to spawn
+[02:44:25] [INFO] [admin] [cars] [Vincent Dabrasco] forced vehicle 39 to unspawn
+[02:44:27] [INFO] [admin] [cars] [Vincent Dabrasco] forced vehicle 39 to spawn
+[02:44:31] [INFO] [admin] [cars] [Vincent Dabrasco] teleported vehicle 39 to his location (1392.734863, -1837.679443, 12.382812)
+[02:44:31] [INFO] [cars] [vUID:39] [Vincent Dabrasco] Entered vehicle 39 (Sultan), seat 0 (fuel 97)
+[02:45:24] [INFO] [cars] [vUID:39] [Vincent Dabrasco] Exited vehicle 39 (Sultan)
+[02:45:28] [INFO] [cars] [vUID:39] [Vincent Dabrasco] Entered vehicle 39 (Sultan), seat 2 (fuel 96)
+[02:45:28] [INFO] [cars] [vUID:39] [Vincent Dabrasco] Exited vehicle 39 (Sultan)
+[02:45:32] [INFO] [cars] [vUID:39] [Vincent Dabrasco] Entered vehicle 39 (Sultan), seat 0 (fuel 96)
+[02:45:38] [INFO] [cars] [vUID:39] [Vincent Dabrasco] [Damage] Vehicleid: 2. Damage: 1000.00->973.86 (delta 26.13). Driver: Vincent Dabrasco
+[02:45:50] [INFO] [admin] [cars] [Vincent Dabrasco] Changed vehicles 39 color from 0:0 to 1:0
+[02:45:58] [INFO] [admin] [cars] [Vincent Dabrasco] Changed vehicles 39 color from 1:0 to 1:5
+[02:46:05] [INFO] [admin] [cars] [Vincent Dabrasco] Changed vehicles 39 color from 1:5 to 3:5
+[02:46:19] [INFO] [admin] [cars] [Vincent Dabrasco] Parked vehicle UID 9
+[02:46:20] [INFO] [admin] [cars] [Vincent Dabrasco] Parked vehicle UID 39
+[02:48:11] [INFO] [cars] [vUID:39] [Vincent Dabrasco] [Damage] Vehicleid: 2. Damage: 973.86->816.67 (delta 157.18). Driver: Vincent Dabrasco
+[02:48:11] [INFO] [cars] [vUID:39] [Vincent Dabrasco] [Damage] Vehicleid: 2. Damage: 816.67->777.56 (delta 39.11). Driver: Vincent Dabrasco
+[02:48:12] [INFO] [cars] [vUID:39] [Vincent Dabrasco] [Damage] Vehicleid: 2. Damage: 777.56->647.82 (delta 129.73). Driver: Vincent Dabrasco
+[02:48:12] [INFO] [cars] [vUID:39] [Vincent Dabrasco] [Damage] Vehicleid: 2. Damage: 647.82->628.91 (delta 18.90). Driver: Vincent Dabrasco
+[02:48:13] [INFO] [cars] [vUID:39] [Vincent Dabrasco] Exited vehicle 39 (Sultan)
+[02:48:24] [INFO] [admin] [door] [Vincent Dabrasco] created the door UID 94
+[02:48:26] [INFO] [door] [Vincent Dabrasco] Enters test (d94)
+[02:48:31] [INFO] [door] [Vincent Dabrasco] Exits test (d94)
+[02:52:37] [INFO] [weapon] [Vincent Dabrasco] Shot from M4 [hittype:0, hitid:65535] x2342.495117 y-2066.957275 z14.329379
+[02:58:02] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[02:58:28] [INFO] [change] [Vincent Dabrasco] [playerid 0] Changing name from [felipe] to [Vincent Dabrasco].
+[02:58:29] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7132 USD. Bank: 0 USD. Played: 17h 43m. IP: 127.0.0.1
+[02:58:29] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[02:58:29] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[02:58:43] [INFO] [admin] [door] [Vincent Dabrasco] created the door UID 95
+[02:58:53] [INFO] [door] [Vincent Dabrasco] Enters testowe drzwi filipa (d95)
+[02:58:56] [INFO] [RP:me] [Vincent Dabrasco] wkłada coś do schowka.
+[02:58:56] [INFO] [thing] [Vincent Dabrasco] Puts thing 3 in door UID 95 (safe)
+[03:00:00] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[03:02:22] [INFO] [change] [Vincent Dabrasco] [playerid 0] Changing name from [felipe] to [Vincent Dabrasco].
+[03:02:23] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7132 USD. Bank: 0 USD. Played: 17h 43m. IP: 127.0.0.1
+[03:02:23] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[03:02:23] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[03:03:51] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:2)
+[03:12:52] [INFO] [change] [Vincent Dabrasco] [playerid 0] Changing name from [felipe] to [Vincent Dabrasco].
+[03:12:53] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7132 USD. Bank: 0 USD. Played: 17h 44m. IP: 127.0.0.1
+[03:12:53] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[03:12:56] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[03:13:46] [INFO] [object] [Vincent Dabrasco] has started to edit the object UID 7048
+[03:15:48] [INFO] [admin] [group] [Vincent Dabrasco] successfully created group UID 20
+[03:15:51] [INFO] [chat] [Vincent Dabrasco] [a:-1] 20/18
+[03:16:03] [INFO] [admin] [group] [Vincent Dabrasco] successfully changes type and flags of group UID 20 to 14/3
+[03:16:21] [INFO] [chat] [Vincent Dabrasco] [a:-1] e
+[03:16:23] [INFO] [chat] [Vincent Dabrasco] [a:-1] e
+[03:16:24] [INFO] [chat] [Vincent Dabrasco] [a:-1] e
+[03:16:26] [INFO] [chat] [Vincent Dabrasco] [a:-1] asfasf
+[03:16:28] [INFO] [chat] [Vincent Dabrasco] [a:-1] asfafsfafafafas
+[03:16:35] [INFO] [chat] [Vincent Dabrasco] [a:-1] 20
+[03:16:37] [INFO] [chat] [Vincent Dabrasco] [a:-1] 20/18
+[03:16:51] [INFO] [admin] [door] [Vincent Dabrasco] assigned door UID 88 to group UID 20
+[03:16:53] [INFO] [door] [Vincent Dabrasco] Enters Celesto Casino (d88)
+[03:16:58] [INFO] [door] [Vincent Dabrasco] Exits Celesto Casino (d88)
+[03:17:08] [INFO] [admin] [group] [Vincent Dabrasco] successfully changes type and flags of group UID 20 to 14/3
+[03:17:19] [INFO] [admin] [door] [Vincent Dabrasco] assigned door UID 88 to group UID 20
+[03:17:22] [INFO] [admin] [door] [Vincent Dabrasco] assigned door UID 88 to group UID 20
+[03:17:26] [INFO] [door] [Vincent Dabrasco] Enters Celesto Casino (d88)
+[03:17:33] [INFO] [door] [Vincent Dabrasco] Exits Celesto Casino (d88)
+[03:17:37] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[03:17:47] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[03:17:49] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:2)
+[03:19:52] [INFO] [change] [Vincent Dabrasco] [playerid 0] Changing name from [felipe] to [Vincent Dabrasco].
+[03:19:53] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7132 USD. Bank: 0 USD. Played: 17h 47m. IP: 127.0.0.1
+[03:19:53] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[03:19:55] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[03:20:02] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:2)
+[03:21:15] [INFO] [change] [Vincent Dabrasco] [playerid 0] Changing name from [felipe] to [Vincent Dabrasco].
+[03:21:16] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7132 USD. Bank: 0 USD. Played: 17h 47m. IP: 127.0.0.1
+[03:21:16] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[03:21:20] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[03:21:34] [INFO] [admin] [Mario] enter admin duty.
+[03:21:46] [INFO] [door] [Mario] Enters Celesto Casino (d88)
+[03:22:09] [INFO] [object] [Mario] has started to edit the object UID 6757
+[03:22:22] [INFO] [door] [Mario] Exits Celesto Casino (d88)
+[03:22:30] [INFO] [admin] [group] [Mario] prompts [Mario] from group UID 16
+[03:22:40] [INFO] [admin] [group] [Mario] prompts [Mario] from group UID 15
+[03:22:46] [INFO] [admin] [group] [Mario] set leader of group UID 20 to [Mario]
+[03:22:48] [INFO] [door] [Mario] Enters Celesto Casino (d88)
+[03:23:01] [INFO] [door] [Mario] Exits Celesto Casino (d88)
+[03:23:02] [INFO] [door] [Mario] Enters Celesto Casino (d88)
+[03:23:07] [INFO] [door] [Mario] Exits Celesto Casino (d88)
+[03:23:54] [INFO] [door] [Mario] Enters Celesto Casino (d88)
+[03:23:56] [INFO] [door] [Mario] Exits Celesto Casino (d88)
+[03:24:06] [INFO] [admin] [door] [Mario] reload all doors
+[03:24:08] [INFO] [door] [Mario] Enters Celesto Casino (d88)
+[03:24:38] [INFO] [door] [Mario] Exits Celesto Casino (d88)
+[03:24:43] [INFO] [door] [Mario] Enters Celesto Casino (d88)
+[03:24:48] [INFO] [door] [Mario] Exits Celesto Casino (d88)
+[03:25:24] [INFO] [admin] [door] [Mario] assigned door UID 88 to group UID 18
+[03:25:26] [INFO] [admin] [door] [Mario] assigned door UID 88 to group UID 20
+[03:25:38] [INFO] [admin] [group] [Mario] successfully changes type and flags of group UID 20 to 14/3
+[03:25:39] [INFO] [door] [Mario] Enters Celesto Casino (d88)
+[03:28:20] [INFO] [change] [Vincent Dabrasco] [playerid 0] Changing name from [felipe] to [Vincent Dabrasco].
+[03:28:21] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7132 USD. Bank: 0 USD. Played: 17h 47m. IP: 127.0.0.1
+[03:28:21] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[03:28:21] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[03:28:21] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:2)
+[03:29:20] [INFO] [change] [asfafs] [playerid 0] Changing name from [felipe] to [asfafs].
+[03:29:23] [INFO] [change] [Vincent Dabrasco] [playerid 0] Changing name from [asfafs] to [Vincent Dabrasco].
+[03:29:23] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7132 USD. Bank: 0 USD. Played: 17h 47m. IP: 127.0.0.1
+[03:29:23] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[03:29:23] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[03:29:28] [INFO] [admin] [Mario] enter admin duty.
+[03:29:42] [INFO] [door] [Mario] Enters Celesto Casino (d88)
+[03:31:36] [INFO] [change] [Vincent Dabrasco] [playerid 0] Changing name from [felipe] to [Vincent Dabrasco].
+[03:31:37] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7132 USD. Bank: 0 USD. Played: 17h 47m. IP: 127.0.0.1
+[03:31:37] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[03:31:37] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[03:32:08] [INFO] [admin] [Mario] enter admin duty.
+[03:32:19] [INFO] [admin] [door] [Mario] removed the door UID 88
+[03:32:26] [INFO] [admin] [door] [Mario] created the door UID 96
+[03:32:32] [INFO] [admin] [door] [Mario] assigned door UID 96 to group UID 2
+[03:32:34] [INFO] [admin] [door] [Mario] assigned door UID 96 to group UID 20
+[03:32:35] [INFO] [door] [Mario] Enters Bank Los Santos (d96)
+[03:32:41] [INFO] [cash] [Mario] created bank number (41812988)
+[03:32:47] [INFO] [cash] [Mario] pays $5 into bank account
+[03:32:48] [INFO] [cash] [Mario] withdraws $3 from bank account
+[16:50:17] [INFO] [join] [disconnect] [Mario] has left the server (0:1)
+[16:50:17] [INFO] [admin] [Vincent Dabrasco] left admin duty. (1h 17m)

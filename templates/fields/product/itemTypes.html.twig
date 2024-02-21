@@ -1,0 +1,5 @@
+{% if field_options.format %}
+    {{ crpItemTypeName(field_options.format|format(value)) }}
+{% else %}
+    {{ crpItemTypeName(value|number_format) }}
+{% endif %}

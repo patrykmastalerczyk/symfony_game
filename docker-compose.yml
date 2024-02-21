@@ -1,0 +1,26 @@
+version: '2'
+services:
+  web:
+    container_name: pts_hub_web
+    build:
+      context: ./
+    environment:
+      PHP_DATE_TIMEZONE: Europe/Warsaw
+      PHP_MEMORY_LIMIT: 1024M
+    ports:
+      - "808:80"
+      - "8068:8000"
+    volumes:
+      - ./:/app
+      - ./docker/web/vhost.conf:/opt/docker/etc/nginx/vhost.conf
+
+    links:
+      - dbpercona:dbpercona
+
+  dbpercona:
+    container_name: pts_hub_db
+    image: percona
+    ports:
+      - "3326:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: passwd

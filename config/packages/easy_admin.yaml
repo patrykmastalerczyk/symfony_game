@@ -1,0 +1,120 @@
+easy_admin:
+  site_name: Gamehub
+  design:
+    assets:
+      css:
+        - 'bundles/easyadmin/bootstrap.min.css'
+        - 'assets/css/app.css'
+        - 'assets/css/tooltipster.bundle.css'
+        - 'assets/css/plugins/tooltipster/sideTip/themes/tooltipster-sideTip-shadow.min.css'
+        - 'assets/css/leaflet.css'
+      js:
+        - 'bundles/easyadmin/bootstrap.min.js'
+        - 'assets/js/app.js'
+        - 'assets/js/tooltipster.bundle.js'
+        - 'assets/js/leaflet.js'
+
+    form_theme:
+      - '@EasyAdmin/form/bootstrap_4.html.twig'
+      - 'form/custom.html.twig'
+    menu:
+      - { entity: 'Product', default: true }
+      - { label: 'Przegląd logów', route: 'logbrowser' }
+      - { entity: 'Map' }
+      - { entity: 'CarshopVehicle' }
+  entities:
+    CarshopVehicle:
+      class: App\Entity\CarshopVehicle
+      label: Pojazdy w salonie
+      list:
+        title: Pojazdy w salonie
+        help: Zarządzanie pojazdami dostępnymi w salonie
+        actions:
+          - {name: 'new', label: 'Dodaj pojazd'}
+        fields:
+          - { property: id, label: ID }
+          - { property: category, label: Kategoria, sortable: true, template: 'fields/carshop_vehicle/category.html.twig' }
+          - { property: model, label: Model, sortable: false, template: 'fields/carshop_vehicle/model.html.twig' }
+          - { property: price, label: Cena, sortable: false, format: '$%d' }
+
+      new:
+        title: Dodaj pojazd
+
+      form:
+        fields:
+          - { property: model, label: Model }
+          - { property: category, label: Kategoria, type: App\Form\Field\Type\CarshopCategoryChoiceType }
+          - { property: price, label: Cena }
+          - { property: fuelType, label: Rodzaj paliwa, type: App\Form\Field\Type\VehicleFuelTypeChoiceType }
+          - { property: minLevel, label: Wymagany poziom postaci }
+          - { property: requiredInhabitance, label: Wymagany rodzaj meldunku, type: Symfony\Component\Form\Extension\Core\Type\ChoiceType, type_options: { choices: {Hotel: 0, Dom: 1} } }
+          - { property: groupType, label: Typ grupy, type: App\Form\Field\Type\GroupTypesChoiceType, type_options: { required: false, multiple: false } }
+    Product:
+      class: App\Entity\Product
+      label: Produkty
+      list:
+        title: Produkty
+        help: Zarządzanie produktami dostępnymi do zamawiania dla grup
+        actions:
+          - {name: 'new', label: 'Dodaj produkt'}
+        fields:
+          - { property: id, label: ID }
+          - { property: groupType, label: Typy grup, sortable: false, type: simple_array, template: 'fields/product/groupTypes.html.twig' }
+          - { property: groups, label: Grupy, sortable: false, template: 'fields/product/groups.html.twig' }
+          - { property: type, label: Typ przedmiotu, template: 'fields/product/itemTypes.html.twig' }
+          - { property: model, label: Model, format: '%d', sortable: false, template: 'fields/product/model.html.twig' }
+          - { property: listName, label: Nazwa produktu }
+          - { property: name, label: Nazwa przedmiotu }
+      search:
+        help: null
+        fields: ['listName', 'name', 'groups.name']
+
+      new:
+        title: Dodaj nowy produkt
+
+      edit:
+        title: 'Edytuj produkt (ID: %%entity_id%%)'
+
+      form:
+        fields:
+          - { property: groupType, label: Typy grup, type: App\Form\Field\Type\GroupTypesChoiceType, type_options: { required: false, multiple: true } }
+          - { property: groups, label: Grupy }
+          - { property: type, label: Typ przedmiotu, type: App\Form\Field\Type\ItemTypesChoiceType }
+          - { property: model, label: Model przedmiotu }
+          - { property: listName, label: Nazwa produktu }
+          - { property: name, label: Nazwa przedmiotu, type_options: { required: false } }
+          - { property: value1, label: 'Wartość 1', type_options: {help: '<a href="#" id="itemsValue1Help">opis parametrów wg typu</a>'} }
+          - { property: value2, label: 'Wartość 2', type_options: {help: '<a href="#" id="itemsValue2Help">opis parametrów wg typu</a>'}  }
+          - { property: price, label: Cena produktu }
+
+    Map:
+      class: App\Entity\Map
+      controller: App\Controller\MapController
+      label: Mapy obiektów
+      list:
+        title: Mapy obiektów
+        help: Zarządzanie mapami obiektów
+        actions:
+          - {name: 'new', label: 'Dodaj mapę'}
+
+        fields:
+          - {property: id, label: ID}
+          - {property: name, label: Nazwa}
+          - {property: objectsCount, label: Ilość obiektów}
+          - {property: removeBuildingsCount, label: Ilość usuniętych budynków}
+          - {property: owner.name, label: Utworzono przez}
+
+      edit:
+        title: 'Edytuj mapę obiektów (ID: %%entity_id%%)'
+        fields:
+          - { property: objectsMap, label: ' ', template: 'fields/map/objectsMap.html.twig', type: Symfony\Component\Form\Extension\Core\Type\FormType, type_options: { mapped: false, block_name: objects_map } }
+
+      form:
+        fields:
+          - { property: name, label: Nazwa }
+          - { property: owner, label: Właściciel, type_options: { required: true } }
+
+      new:
+        title: Dodaj nową mapę obiektów
+        fields:
+          - { property: objectsFile, label: Plik mapy, type: Symfony\Component\Form\Extension\Core\Type\FileType, type_options: { mapped: false, required: true, help: Jedyny akceptowalny format to .map } }

@@ -1,0 +1,47 @@
+{% extends '@EasyAdmin/default/layout.html.twig' %}
+
+{% block content_title %}
+    Przegląd logów
+{% endblock %}
+
+{% form_theme form with "form/bootstrap_4.html.twig" %}
+
+{% block main %}
+    <div class="content-wrapper log-browser">
+        <div id="accordion-filter-options">
+            <div class="card">
+                <div class="card-header" id="heading-filter-options">
+                    <h5 class="mb-0">
+                        <a href="#" class="dropdown-toggle" data-toggle="collapse" data-target="#filter-options" aria-expanded="true" aria-controls="filter-options">
+                            <span class="caret"></span>
+                            Filtry
+                        </a>
+                    </h5>
+                </div>
+
+                <div id="filter-options" class="collapse show" aria-labelledby="heading-filter-options" data-parent="#accordion-filter-options">
+                    <div class="card-body">
+                        {{ form(form) }}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="code">
+
+            {% if not logs is empty %}
+                {% for log in logs %}
+                    <span class="line"><span class="token date">[{{ log.time|date("Y-m-d H:i:s") }}]</span> <span class="token type">[{{ log.type }}]</span> <span class="token action">[{{ log.action }}]</span> {{ log.getMessageForDisplay|raw }}</span>
+                {% endfor %}
+            {% else %}
+                Brak wyników
+            {% endif %}
+        </div>
+    </div>
+{% endblock %}
+
+{% block body_javascript %}
+<script type="text/javascript">
+    var LogLinkUrl = '{{ url('crp_ajax_element_details', {type: "a", id: 1}) }}';
+    LogLinkUrl = LogLinkUrl.slice(0, -3);
+</script>
+{% endblock body_javascript %}

@@ -1,0 +1,71 @@
+# This file is the entry point to configure your own services.
+# Files in the packages/ subdirectory configure your dependencies.
+
+# Put parameters here that don't need to change on each machine where the app is deployed
+# https://symfony.com/doc/current/best_practices/configuration.html#application-related-configuration
+parameters:
+    locale: 'pl'
+
+services:
+    # default configuration for services in *this* file
+    _defaults:
+        autowire: true      # Automatically injects dependencies in your services.
+        autoconfigure: true # Automatically registers your services as commands, event subscribers, etc.
+
+    # makes classes in src/ available to be used as services
+    # this creates a service per class whose id is the fully-qualified class name
+    App\:
+        resource: '../src/*'
+        exclude: '../src/{DependencyInjection,Entity,Migrations,Tests,Form,Kernel.php}'
+
+    # controllers are imported separately to make sure services can be injected
+    # as action arguments even if you don't extend any base controller class
+    App\Controller\:
+        resource: '../src/Controller'
+        tags: ['controller.service_arguments']
+
+    App\Twig\Extension\:
+        resource: '../src/Twig/Extension'
+        tags: ['twig.extension']
+
+    # add more service definitions when explicit configuration is needed
+    # please note that last definitions always *replace* previous ones
+
+    App\Twig\Extension\CrpGroupNameExtension:
+        arguments: ['@doctrine.orm.entity_manager']
+
+    crp.form.type.item_types_choice:
+        class: App\Form\Field\Type\ItemTypesChoiceType
+        public: true
+        tags:
+            - { name: form.type }
+
+    crp.form.type.group_types_choice:
+        class: App\Form\Field\Type\GroupTypesChoiceType
+        public: true
+        tags:
+            - { name: form.type }
+
+    crp.form.type.configurator.group_types:
+        class: App\Form\Field\Type\Configurator\GroupTypesConfigurator
+        public: true
+        tags:
+            - { name: easyadmin.form.type.configurator, priority: -20 }
+
+    App\Validator\Constraints\ProductHasAnyOwner:
+        class: App\Validator\Constraints\ProductHasAnyOwner
+        tags:
+            - { name: validator.constraint_validator }
+
+    crp.form.type.extension:
+        class: App\Form\Extension\CrpExtension
+        arguments: ['@request_stack']
+        tags:
+            - { name: 'form.type_extension', alias: 'form', extended-type: 'Symfony\Component\Form\Extension\Core\Type\FormType' }
+
+    App\Service\ConfigManager:
+        arguments: ['%app.config%']
+
+    App\EventListener\SalonVehicleListener:
+        tags:
+            - { name: doctrine.event_subscriber }

@@ -1,0 +1,116 @@
+@import 'element_details';
+
+.content-wrapper .log-browser {
+    padding-bottom: 10px;
+}
+
+.code{
+    font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+    font-size: 13px;
+    background: #272822;
+    color: #FFF;
+    border: none;
+}
+
+div.code{
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    margin: 10px 1px;
+    padding: .5em 1em;
+    box-shadow: 2px 2px 4px -4px rgba(0,0,0,.25) inset;
+    overflow: auto;
+    position: relative;
+}
+
+div.code p,
+div.code pre{
+    margin: 0;
+    padding: 0;
+}
+div.code p{
+    white-space: nowrap;
+    overflow-x: auto;
+}
+div.code span.line{
+    counter-increment: linenumber;
+    display: inline-block;
+    min-width: 100%;
+
+
+}
+div.code span.line:hover{  background-color: rgba(0,0,0,.15); }
+
+span.code{
+    border: 1px solid #EEE;
+    border-radius: 2em;
+    background: none;
+    padding: 0 .4em;
+    font-size: 85%;
+}
+
+div.code span.line {
+    white-space: nowrap;
+    line-height: 180%;
+}
+
+.code pre{
+    border: none;
+    background: none;
+}
+.code a{
+    color: inherit;
+    border-bottom: 1px dotted;
+    display: inline-block;
+    height: 1.28em;
+}
+.code a:hover{
+    text-decoration: none;
+    color: inherit;
+    border-bottom: none;
+}
+
+div.code span.badge-warning {
+    width: 60px;
+}
+
+div.code .token.date {
+    color: darkgrey;
+}
+
+div.code {
+    .token.type {
+        color: #efe369;
+    }
+
+    .token.action {
+        color: #9cef8a;
+    }
+
+    .token.date {
+        color: darkgrey;
+    }
+
+    .token.element {
+        color: #ff586d;
+        cursor: pointer;
+    }
+
+    .token.data {
+        color: #9b8a9c;
+    }
+
+    .token.datavalue {
+        color: white;
+    }
+}
+
+
+.fa-go-center {
+    display:block;
+    text-align:center;
+}
+
+.popover-big {
+    max-width: 800px;
+}
+

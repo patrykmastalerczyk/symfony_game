@@ -1,0 +1,5 @@
+{% if field_options.format %}
+    <a href="https://dev.prineside.com/en/gtasa_samp_model_id/model/{{ field_options.format|format(value) }}" target="_blank">{{ field_options.format|format(value) }}</a>
+{% else %}
+    <a href="https://dev.prineside.com/en/gtasa_samp_model_id/model/{{ value|number_format }}" target="_blank">{{ value|number_format }}</a>
+{% endif %}

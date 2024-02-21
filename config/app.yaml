@@ -1,0 +1,8 @@
+app:
+    crp_element:
+        character:
+            class: App\Entity\Character
+            details:
+                tag: p
+        group:
+            class: App\Entity\Group

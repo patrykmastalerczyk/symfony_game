@@ -1,0 +1,26 @@
+{% if view == 'show' %}
+    {% if value|length > 0 %}
+        <ul>
+            {% for element in value %}
+                <li>{{ element }}</li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <div class="empty collection-empty">
+            {{ include(entity_config.templates.label_empty) }}
+        </div>
+    {% endif %}
+{% else %}
+    {% if value|length > 0 %}
+        {% for type in value|slice(0, 3) %}
+            <span class="badge badge-pill badge-primary">{{ crpGroupTypeName(type) }}</span>
+            <br>
+        {% endfor %}
+        {% set _remaining_items = value|length - 3 %}
+        {% if _remaining_items > 0 %}
+            (oraz {{ _remaining_items }} inne typy grup)
+        {% endif %}
+    {% else %}
+        brak
+    {% endif %}
+{% endif %}

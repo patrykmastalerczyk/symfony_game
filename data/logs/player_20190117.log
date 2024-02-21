@@ -1,0 +1,510 @@
+[00:04:28] [INFO] [change] [Vincent Dabrasco] [playerid 0] Changing name from [felipe] to [Vincent Dabrasco].
+[00:04:29] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 17h 48m. IP: 127.0.0.1
+[00:04:29] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[00:04:29] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[00:04:38] [INFO] [chat] [Vincent Dabrasco] [a:0] a
+[00:04:57] [INFO] [cars] [vUID:9] [Vincent Dabrasco] Entered vehicle 9 (Firetruck), seat 0 (fuel 143)
+[00:05:05] [INFO] [cars] [vUID:9] [Vincent Dabrasco] Exited vehicle 9 (Firetruck)
+[00:05:05] [INFO] [cars] [vUID:9] [Vincent Dabrasco] Exits a moving vehicle UID 9
+[00:05:48] [INFO] [admin] [unaj] [Vincent Dabrasco] > [Vincent Dabrasco]
+[00:05:48] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[00:06:49] [INFO] [scold] [Vincent Dabrasco] > [Vincent Dabrasco] 30d 5
+[00:06:53] [INFO] [admin] [unaj] [Vincent Dabrasco] > [Vincent Dabrasco]
+[00:06:53] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[00:07:04] [INFO] [gs] [Vincent Dabrasco] > [Vincent Dabrasco] 1000 test
+[00:07:09] [INFO] [gs] [Vincent Dabrasco] > [Vincent Dabrasco] -500 test
+[00:07:23] [INFO] [thing] [Vincent Dabrasco] Uses thing 217 (Desert Eagle) V24:93:0, type: 1
+[00:07:27] [INFO] [chat] [Vincent Dabrasco] [a:-1] e
+[00:07:30] [INFO] [thing] [Vincent Dabrasco] Uses thing 249 (Telefon) V2137:0:0, type: 4
+[00:07:37] [INFO] [thing] [Vincent Dabrasco] Uses thing 191 (Anielski Py³) V3:130:0, type: 21
+[00:07:37] [INFO] [RP:me] [Vincent Dabrasco] za¿ywa Amfetamina
+[00:07:45] [INFO] [thing] [Vincent Dabrasco] Uses thing 191 (Anielski Py³) V3:130:0, type: 21
+[00:07:45] [INFO] [RP:me] [Vincent Dabrasco] za¿ywa Amfetamina
+[00:07:47] [INFO] [thing] [Vincent Dabrasco] Uses thing 5 (Amfetamina) V1:100:0, type: 21
+[00:07:47] [INFO] [RP:me] [Vincent Dabrasco] za¿ywa Marihuana
+[00:07:50] [INFO] [thing] [Vincent Dabrasco] Uses thing 188 ([LZ] Metamfetamina) V2:90:0, type: 21
+[00:07:50] [INFO] [RP:me] [Vincent Dabrasco] za¿ywa Metamfetamina
+[00:07:53] [INFO] [thing] [Vincent Dabrasco] Uses thing 51 (Soda oczyszczona) V1:0:0, type: 22
+[00:07:55] [INFO] [thing] [Vincent Dabrasco] Uses thing 198 (Karnet sztuk walki) V16:0:0, type: 16
+[00:08:06] [INFO] [group] [Vincent Dabrasco] starts duty in group [Los Santos Police Dept] (UID: 9)
+[00:08:17] [INFO] [admin] [Mario] enter admin duty.
+[00:08:18] [INFO] [admin] [Vincent Dabrasco] left admin duty. (0h 0m)
+[00:08:20] [INFO] [group] [Vincent Dabrasco] ends duty in group [Los Santos Police Dept] (UID: 9)
+[00:08:22] [INFO] [ammo-log] [Vincent Dabrasco] shot w24 [hittype:0, hitid:65535] x1184.300659 y-1251.264648 z14.179687
+[00:08:26] [INFO] [thing] [Vincent Dabrasco] Uses thing 217 (Desert Eagle) V24:93:0, type: 1
+[00:13:32] [INFO] [admin] [arestart] [Vincent Dabrasco] has forced game server to be restarted
+[00:13:32] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[00:13:50] [INFO] [chat] [Vincent Dabrasco] [a:0] e
+[00:13:55] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 17h 50m. IP: 127.0.0.1
+[00:13:55] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (1185.839, -1258.339, 15.179, 1092699659)
+[00:13:55] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[00:16:42] [INFO] [cars] [vUID:39] [Vincent Dabrasco] Unspawns vehicle ID 39 (SA-MP ID 2), model 560 (Sultan), health 300.00
+[00:16:43] [INFO] [cars] [vUID:39] [Vincent Dabrasco] Spawns vehicle ID 39 (SA-MP ID 2), model 560 (Sultan), health 300.00
+[00:17:41] [INFO] [thing] [Vincent Dabrasco] lifts thing 217 (Desert Eagle) up.
+[00:17:41] [INFO] [RP:me] [Vincent Dabrasco] podnosi coœ z ziemi.
+[00:17:51] [INFO] [thing] [Vincent Dabrasco] Uses thing 217 (Desert Eagle) V24:92:0, type: 1
+[00:17:53] [INFO] [ammo-log] [Vincent Dabrasco] shot w24 [hittype:0, hitid:65535] x1133.080566 y-1203.894042 z20.306261
+[00:17:55] [INFO] [ammo-log] [Vincent Dabrasco] shot w24 [hittype:0, hitid:65535] x1141.414916 y-1223.232055 z18.808416
+[00:17:56] [INFO] [ammo-log] [Vincent Dabrasco] shot w24 [hittype:0, hitid:65535] x1141.414916 y-1243.857421 z15.073335
+[00:17:57] [INFO] [ammo-log] [Vincent Dabrasco] shot w24 [hittype:0, hitid:65535] x1161.351562 y-1217.542358 z18.270017
+[00:17:58] [INFO] [ammo-log] [Vincent Dabrasco] shot w24 [hittype:0, hitid:65535] x1158.496704 y-1201.590209 z19.459545
+[00:18:01] [INFO] [ammo-log] [Vincent Dabrasco] shot w24 [hittype:0, hitid:65535] x1144.702026 y-1201.590209 z20.393844
+[00:18:30] [INFO] [admin] [unaj] [Vincent Dabrasco] > [Vincent Dabrasco]
+[00:18:30] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[00:18:41] [INFO] [admin] [unaj] [Vincent Dabrasco] > [Vincent Dabrasco]
+[00:18:41] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[00:18:48] [INFO] [admin] [unaj] [Vincent Dabrasco] > [Vincent Dabrasco]
+[00:18:48] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[00:18:54] [INFO] [antycheat] [Vincent Dabrasco] rapid movement (power 491.460083, excess 241.46)
+[00:18:54] [INFO] [antycheat] [Vincent Dabrasco] rapid movement (power 591.562744, excess 341.56)
+[00:18:55] [INFO] [admin] [unaj] [Vincent Dabrasco] > [Vincent Dabrasco]
+[00:18:55] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[00:19:00] [INFO] [antycheat] [Vincent Dabrasco] rapid movement (power 396.134643, excess 146.13)
+[00:19:04] [INFO] [chat] [Vincent Dabrasco] [a:0] e
+[00:19:06] [INFO] [antycheat] [Vincent Dabrasco] rapid movement (power 1029.076416, excess 779.07)
+[00:49:06] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[00:50:19] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[00:50:19] [INFO] [thing] [Vincent Dabrasco] Uses thing 217 (Desert Eagle) V24:92:0, type: 1
+[00:50:47] [INFO] [change] [Vincent Dabrasco] [playerid 0] Changing name from [felipe] to [Vincent Dabrasco].
+[00:50:48] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 17h 52m. IP: 127.0.0.1
+[00:50:48] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[00:50:48] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[00:51:15] [INFO] [object] [Vincent Dabrasco] has started to edit the object UID 4637
+[00:51:27] [INFO] [admin] [Mario] enter admin duty.
+[00:51:40] [INFO] [admin] [Vincent Dabrasco] left admin duty. (0h 10m)
+[00:51:40] [INFO] [scold] [system] [Vincent Dabrasco] > [Vincent Dabrasco] 30d AntyCheat: Rapid movement m1 ds0.00 dx0.00 dy0.00 dz0.00
+[00:51:46] [INFO] [admin] [unaj] [Vincent Dabrasco] > [Vincent Dabrasco]
+[00:51:46] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[00:52:02] [INFO] [antycheat] [Vincent Dabrasco] rapid movement (power 806.806152, excess 556.80)
+[00:52:02] [INFO] [antycheat] [Vincent Dabrasco] rapid movement (power 948.286315, excess 698.28)
+[00:52:02] [INFO] [scold] [system] [Vincent Dabrasco] > [Vincent Dabrasco] 30d AntyCheat: Rapid movement m1 ds8.48 dx8.28 dy0.18 dz0.01
+[00:52:05] [INFO] [admin] [unaj] [Vincent Dabrasco] > [Vincent Dabrasco]
+[00:52:05] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[00:52:08] [INFO] [antycheat] [Vincent Dabrasco] rapid movement (power 884.618835, excess 634.61)
+[00:52:08] [INFO] [scold] [system] [Vincent Dabrasco] > [Vincent Dabrasco] 30d AntyCheat: Rapid movement m2 (power 884.618835, excess 634.61, state on-foot (1))
+[00:52:11] [INFO] [admin] [unaj] [Vincent Dabrasco] > [Vincent Dabrasco]
+[00:52:11] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[00:59:21] [INFO] [admin] [Mario] enter admin duty.
+[00:59:26] [INFO] [chat] [Mario] [a:5] e
+[01:00:12] [INFO] [chat] [Mario] [a:5] easf
+[01:00:23] [INFO] [chat] [Mario] [a:5] e
+[01:00:24] [INFO] [chat] [Mario] [a:5] asf
+[01:00:29] [INFO] [chat] [Mario] [a:5] asfajfafjajfajfajfajfajfajfajfasfajfafjajfajfajfajfajfajfajfasfajfafjajfajfajfajfajfajfajfasfajfafjajfajfajfajfajfajfajfasfajfaf
+[01:00:42] [INFO] [chat] [Mario] [a:5] e
+[01:00:43] [INFO] [chat] [Mario] [a:5] e
+[01:02:01] [INFO] [antycheat] [Mario] rapid movement (power 1003.809143, excess 753.80)
+[01:02:03] [INFO] [antycheat] [Mario] rapid movement (power 568.876403, excess 318.87)
+[01:02:05] [INFO] [antycheat] [Mario] rapid movement (power 1118.352050, excess 868.35)
+[01:02:06] [INFO] [antycheat] [Mario] rapid movement (power 668.661804, excess 418.66)
+[01:02:07] [INFO] [antycheat] [Mario] rapid movement (power 285.665313, excess 35.66)
+[01:02:07] [INFO] [antycheat] [Mario] rapid movement (power 716.828369, excess 466.82)
+[01:02:10] [INFO] [antycheat] [Mario] rapid movement (power 353.280792, excess 103.28)
+[01:02:11] [INFO] [antycheat] [Mario] rapid movement (power 584.609680, excess 334.60)
+[01:02:13] [INFO] [antycheat] [Mario] rapid movement (power 593.550292, excess 343.55)
+[01:02:23] [INFO] [antycheat] [Mario] rapid movement (power 1487.278076, excess 1237.27)
+[01:02:24] [INFO] [antycheat] [Mario] rapid movement (power 1107.773315, excess 857.77)
+[01:02:26] [INFO] [antycheat] [Mario] rapid movement (power 970.624572, excess 720.62)
+[01:02:27] [INFO] [antycheat] [Mario] rapid movement (power 1144.810302, excess 894.81)
+[01:02:28] [INFO] [antycheat] [Mario] rapid movement (power 524.208435, excess 274.20)
+[01:02:29] [INFO] [antycheat] [Mario] rapid movement (power 285.642242, excess 35.64)
+[01:02:38] [INFO] [antycheat] [Mario] rapid movement (power 653.113037, excess 403.11)
+[01:02:39] [INFO] [antycheat] [Mario] rapid movement (power 993.945007, excess 743.94)
+[01:02:40] [INFO] [antycheat] [Mario] rapid movement (power 660.511352, excess 410.51)
+[01:02:41] [INFO] [antycheat] [Mario] rapid movement (power 796.156738, excess 546.15)
+[01:02:42] [INFO] [antycheat] [Mario] rapid movement (power 451.521667, excess 201.52)
+[01:02:43] [INFO] [antycheat] [Mario] rapid movement (power 272.544128, excess 22.54)
+[01:02:44] [INFO] [antycheat] [Mario] rapid movement (power 260.068359, excess 10.06)
+[01:02:48] [INFO] [chat] [Mario] [a:3] e
+[01:02:55] [INFO] [thing] [Mario] drops thing 217 down on the floor d0 (700.224975, -1070.695922, 54.215152)
+[01:02:55] [INFO] [RP:me] [Mario] odk³ada coœ na ziemiê.
+[01:02:58] [INFO] [thing] [Mario] lifts thing 217 (Desert Eagle) up.
+[01:02:58] [INFO] [RP:me] [Mario] podnosi coœ z ziemi.
+[01:03:03] [INFO] [admin] [cars] [Mario] successfully created vehicle Sultan [vUID:42]
+[01:03:08] [INFO] [cars] [vUID:42] [Mario] Entered vehicle 42 (Sultan), seat 1 (fuel 0)
+[01:03:11] [INFO] [thing] [Mario] drops thing 217 in vehicle UID 42
+[01:03:11] [INFO] [RP:me] [Mario] odk³ada coœ do pojazdu.
+[01:03:13] [INFO] [thing] [Mario] lifts thing 217 (Desert Eagle) up. Vehicle 42
+[01:03:13] [INFO] [RP:me] [Mario] wyci¹ga coœ z pojazdu.
+[01:14:10] [INFO] [cars] [vUID:42] [Mario] Exited vehicle 42 (Sultan)
+[01:14:14] [INFO] [admin] [arestart] [Mario] has forced game server to be restarted
+[01:14:14] [INFO] [join] [disconnect] [Mario] has left the server (0:1)
+[01:14:14] [INFO] [admin] [Vincent Dabrasco] left admin duty. (3h 22m)
+[01:14:33] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 17h 56m. IP: 127.0.0.1
+[01:14:33] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (697.903, -1075.479, 53.507, 1128145682)
+[01:14:33] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[01:14:39] [INFO] [cars] [vUID:42] [Vincent Dabrasco] Entered vehicle 42 (Sultan), seat 1 (fuel 0)
+[01:14:41] [INFO] [thing] [Vincent Dabrasco] drops thing 249 in vehicle UID 42
+[01:14:41] [INFO] [RP:ame] [Vincent Dabrasco] odk³ada coœ do pojazdu.
+[01:14:43] [INFO] [thing] [Vincent Dabrasco] lifts thing 249 (Telefon) up. Vehicle 42
+[01:14:43] [INFO] [RP:ame] [Vincent Dabrasco] wyci¹ga coœ z pojazdu.
+[01:14:43] [INFO] [cars] [vUID:42] [Vincent Dabrasco] Exited vehicle 42 (Sultan)
+[01:14:45] [INFO] [RP:me] [Vincent Dabrasco] e
+[01:14:47] [INFO] [RP:try] [Vincent Dabrasco] e
+[01:16:36] [INFO] [thing] [Vincent Dabrasco] Uses thing 5 (Amfetamina) V1:100:0, type: 21
+[01:16:36] [INFO] [RP:ame] [Vincent Dabrasco] za¿ywa Marihuana
+[01:16:39] [INFO] [cars] [vUID:39] [Vincent Dabrasco] Spawns vehicle ID 39 (SA-MP ID 3), model 560 (Sultan), health 300.00
+[01:57:53] [INFO] [admin] [arestart] [Vincent Dabrasco] has forced game server to be restarted
+[01:57:53] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[01:58:13] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 17h 58m. IP: 127.0.0.1
+[01:58:13] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (346.326, -1060.020, 91.787, 1118418620)
+[01:58:13] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[01:59:23] [INFO] [admin] [arestart] [Vincent Dabrasco] has forced game server to be restarted
+[01:59:23] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[01:59:44] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 17h 58m. IP: 127.0.0.1
+[01:59:44] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (335.726, -1061.599, 89.148, 1128723775)
+[01:59:44] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[02:02:42] [INFO] [admin] [arestart] [Vincent Dabrasco] has forced game server to be restarted
+[02:02:42] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[02:03:01] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 17h 58m. IP: 127.0.0.1
+[02:03:01] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (344.173, -1055.719, 93.466, 1135202992)
+[02:03:01] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[02:04:28] [INFO] [thing] [Vincent Dabrasco] Uses thing 21 (iPhone X) V540001:0:0, type: 4
+[02:04:29] [INFO] [phone] [Vincent Dabrasco] turns off phone [uid:21]
+[02:05:21] [INFO] [admin] [arestart] [Vincent Dabrasco] has forced game server to be restarted
+[02:05:21] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[02:05:41] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 17h 58m. IP: 127.0.0.1
+[02:05:41] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (360.457, -1042.489, 95.568, 1129875243)
+[02:05:41] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[02:05:47] [INFO] [thing] [Vincent Dabrasco] Uses thing 249 (Telefon) V2137:0:0, type: 4
+[02:07:08] [INFO] [admin] [arestart] [Vincent Dabrasco] has forced game server to be restarted
+[02:07:08] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[02:07:27] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 17h 58m. IP: 127.0.0.1
+[02:07:27] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (372.088, -1038.520, 97.062, 1133365887)
+[02:07:27] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[02:10:38] [INFO] [thing] [Vincent Dabrasco] Uses thing 249 (Telefon) V2137:0:0, type: 4
+[02:10:39] [INFO] [phone] [Vincent Dabrasco] turns off phone [uid:249]
+[02:10:43] [INFO] [thing] [Vincent Dabrasco] Uses thing 249 (Telefon) V2137:0:0, type: 4
+[02:10:44] [INFO] [admin] [arestart] [Vincent Dabrasco] has forced game server to be restarted
+[02:10:44] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[02:11:13] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 17h 58m. IP: 127.0.0.1
+[02:11:13] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (370.363, -1014.500, 92.743, 1135635005)
+[02:11:13] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[02:15:33] [INFO] [admin] [arestart] [Vincent Dabrasco] has forced game server to be restarted
+[02:15:33] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[02:15:51] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 17h 58m. IP: 127.0.0.1
+[02:15:51] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (351.298, -1014.109, 93.544, 1119088004)
+[02:15:51] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[02:16:54] [INFO] [death] [Vincent Dabrasco] self-reported or system-called death. Killer: 65535, reason: 54
+[02:16:57] [INFO] [admin] [bw] [Vincent Dabrasco] Vincent Dabrasco
+[02:17:00] [INFO] [admin] [Vincent Dabrasco] set [Vincent Dabrasco] 25 health
+[02:17:03] [INFO] [admin] [Vincent Dabrasco] set [Vincent Dabrasco] 24 health
+[02:17:11] [INFO] [admin] [Vincent Dabrasco] set [Vincent Dabrasco] 1 health
+[02:17:15] [INFO] [admin] [Vincent Dabrasco] set [Vincent Dabrasco] 75 health
+[02:17:18] [INFO] [admin] [Vincent Dabrasco] set [Vincent Dabrasco] 74 health
+[02:18:13] [INFO] [thing] [Vincent Dabrasco] Uses thing 249 (Telefon) V2137:0:0, type: 4
+[02:18:16] [INFO] [thing] [Vincent Dabrasco] Uses thing 249 (Telefon) V2137:0:0, type: 4
+[02:18:17] [INFO] [phone] [Vincent Dabrasco] turns off phone [uid:249]
+[02:20:25] [INFO] [admin] [arestart] [Vincent Dabrasco] has forced game server to be restarted
+[02:20:25] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[02:20:44] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 0m. IP: 127.0.0.1
+[02:20:44] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (410.196, -1081.859, 81.512, 1132012438)
+[02:20:44] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[02:20:49] [INFO] [thing] [Vincent Dabrasco] Uses thing 249 (Telefon) V2137:0:0, type: 4
+[02:21:38] [INFO] [admin] [arestart] [Vincent Dabrasco] has forced game server to be restarted
+[02:21:38] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[02:22:06] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 0m. IP: 127.0.0.1
+[02:22:06] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (410.196, -1081.859, 81.514, 1132012438)
+[02:22:06] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[02:22:12] [INFO] [thing] [Vincent Dabrasco] Uses thing 244 (Karnet Gym CORP) V5:15:0, type: 16
+[02:22:14] [INFO] [thing] [Vincent Dabrasco] Uses thing 249 (Telefon) V2137:0:0, type: 4
+[02:22:15] [INFO] [phone] [Vincent Dabrasco] turns off phone [uid:249]
+[03:00:00] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[05:55:41] [INFO] [change] [Vincent Dabrasco] [playerid 0] Changing name from [felipe] to [Vincent Dabrasco].
+[05:55:41] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 0m. IP: 127.0.0.1
+[05:55:41] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[05:55:41] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[05:55:44] [INFO] [death] [Vincent Dabrasco] self-reported or system-called death. Killer: 65535, reason: 255
+[05:55:44] [INFO] [bw] [Vincent Dabrasco] 5min
+[05:55:51] [INFO] [admin] [bw] [Vincent Dabrasco] Vincent Dabrasco
+[05:56:36] [INFO] [admin] [Mario] enter admin duty.
+[05:56:47] [INFO] [antycheat] [Mario] rapid movement (power 847.730102, excess 597.73)
+[05:56:48] [INFO] [antycheat] [Mario] rapid movement (power 1002.119140, excess 752.11)
+[05:56:50] [INFO] [antycheat] [Mario] rapid movement (power 1198.750000, excess 948.75)
+[05:56:54] [INFO] [antycheat] [Mario] rapid movement (power 509.233215, excess 259.23)
+[05:56:58] [INFO] [antycheat] [Mario] rapid movement (power 264.755981, excess 14.75)
+[05:57:01] [INFO] [antycheat] [Mario] rapid movement (power 844.123596, excess 594.12)
+[05:57:02] [INFO] [antycheat] [Mario] rapid movement (power 663.746093, excess 413.74)
+[05:57:03] [INFO] [antycheat] [Mario] rapid movement (power 442.653717, excess 192.65)
+[05:57:03] [INFO] [antycheat] [Mario] rapid movement (power 480.126678, excess 230.12)
+[05:57:04] [INFO] [antycheat] [Mario] rapid movement (power 276.040435, excess 26.04)
+[05:57:05] [INFO] [antycheat] [Mario] rapid movement (power 774.869628, excess 524.86)
+[05:57:08] [INFO] [antycheat] [Mario] rapid movement (power 688.800354, excess 438.80)
+[05:57:09] [INFO] [antycheat] [Mario] rapid movement (power 566.374084, excess 316.37)
+[05:57:10] [INFO] [antycheat] [Mario] rapid movement (power 419.966827, excess 169.96)
+[05:57:19] [INFO] [antycheat] [Mario] rapid movement (power 529.311767, excess 279.31)
+[05:57:20] [INFO] [antycheat] [Mario] rapid movement (power 913.174560, excess 663.17)
+[05:57:25] [INFO] [antycheat] [Mario] rapid movement (power 497.888732, excess 247.88)
+[05:57:26] [INFO] [antycheat] [Mario] rapid movement (power 715.211791, excess 465.21)
+[05:57:27] [INFO] [antycheat] [Mario] rapid movement (power 893.337951, excess 643.33)
+[05:57:28] [INFO] [antycheat] [Mario] rapid movement (power 1099.004394, excess 849.00)
+[05:57:29] [INFO] [antycheat] [Mario] rapid movement (power 955.694641, excess 705.69)
+[05:57:37] [INFO] [antycheat] [Mario] rapid movement (power 542.616821, excess 292.61)
+[05:57:39] [INFO] [antycheat] [Mario] rapid movement (power 850.215209, excess 600.21)
+[05:57:39] [INFO] [antycheat] [Mario] rapid movement (power 950.456665, excess 700.45)
+[05:57:42] [INFO] [antycheat] [Mario] rapid movement (power 1529.311157, excess 1279.31)
+[05:57:43] [INFO] [antycheat] [Mario] rapid movement (power 1312.951538, excess 1062.95)
+[05:57:44] [INFO] [antycheat] [Mario] rapid movement (power 1538.099121, excess 1288.09)
+[05:57:45] [INFO] [antycheat] [Mario] rapid movement (power 1372.905517, excess 1122.90)
+[05:57:46] [INFO] [antycheat] [Mario] rapid movement (power 1397.139526, excess 1147.13)
+[05:57:48] [INFO] [antycheat] [Mario] rapid movement (power 687.692443, excess 437.69)
+[05:57:49] [INFO] [antycheat] [Mario] rapid movement (power 338.981964, excess 88.98)
+[05:57:50] [INFO] [antycheat] [Mario] rapid movement (power 517.021423, excess 267.02)
+[05:57:51] [INFO] [antycheat] [Mario] rapid movement (power 269.200775, excess 19.20)
+[05:57:54] [INFO] [antycheat] [Mario] rapid movement (power 517.453552, excess 267.45)
+[05:58:01] [INFO] [antycheat] [Mario] rapid movement (power 331.630035, excess 81.63)
+[05:58:06] [INFO] [antycheat] [Mario] rapid movement (power 509.123779, excess 259.12)
+[05:58:07] [INFO] [antycheat] [Mario] rapid movement (power 598.425231, excess 348.42)
+[05:58:08] [INFO] [antycheat] [Mario] rapid movement (power 603.095520, excess 353.09)
+[05:58:09] [INFO] [antycheat] [Mario] rapid movement (power 600.418029, excess 350.41)
+[05:58:12] [INFO] [antycheat] [Mario] rapid movement (power 446.822448, excess 196.82)
+[05:58:17] [INFO] [antycheat] [Mario] rapid movement (power 1067.193237, excess 817.19)
+[05:58:18] [INFO] [antycheat] [Mario] rapid movement (power 577.880126, excess 327.88)
+[05:58:19] [INFO] [antycheat] [Mario] rapid movement (power 1384.230834, excess 1134.23)
+[05:58:20] [INFO] [antycheat] [Mario] rapid movement (power 547.290466, excess 297.29)
+[05:58:21] [INFO] [antycheat] [Mario] rapid movement (power 561.810546, excess 311.81)
+[05:58:23] [INFO] [antycheat] [Mario] rapid movement (power 566.100952, excess 316.10)
+[05:58:24] [INFO] [antycheat] [Mario] rapid movement (power 545.569213, excess 295.56)
+[05:58:25] [INFO] [antycheat] [Mario] rapid movement (power 588.237792, excess 338.23)
+[05:58:27] [INFO] [antycheat] [Mario] rapid movement (power 478.475128, excess 228.47)
+[05:58:29] [INFO] [antycheat] [Mario] rapid movement (power 328.653747, excess 78.65)
+[05:58:30] [INFO] [antycheat] [Mario] rapid movement (power 513.252807, excess 263.25)
+[05:58:31] [INFO] [antycheat] [Mario] rapid movement (power 544.659423, excess 294.65)
+[05:58:33] [INFO] [antycheat] [Mario] rapid movement (power 493.206512, excess 243.20)
+[05:58:35] [INFO] [antycheat] [Mario] rapid movement (power 604.077697, excess 354.07)
+[05:58:35] [INFO] [antycheat] [Mario] rapid movement (power 604.076721, excess 354.07)
+[05:58:36] [INFO] [antycheat] [Mario] rapid movement (power 611.159729, excess 361.15)
+[05:58:37] [INFO] [antycheat] [Mario] rapid movement (power 595.871582, excess 345.87)
+[05:58:37] [INFO] [antycheat] [Mario] rapid movement (power 626.463073, excess 376.46)
+[05:58:38] [INFO] [antycheat] [Mario] rapid movement (power 624.703002, excess 374.70)
+[05:58:38] [INFO] [antycheat] [Mario] rapid movement (power 504.556243, excess 254.55)
+[05:58:39] [INFO] [antycheat] [Mario] rapid movement (power 581.732666, excess 331.73)
+[05:58:40] [INFO] [antycheat] [Mario] rapid movement (power 602.433349, excess 352.43)
+[05:58:41] [INFO] [antycheat] [Mario] rapid movement (power 596.695373, excess 346.69)
+[05:58:41] [INFO] [antycheat] [Mario] rapid movement (power 587.440368, excess 337.44)
+[05:58:42] [INFO] [antycheat] [Mario] rapid movement (power 602.801818, excess 352.80)
+[05:58:44] [INFO] [antycheat] [Mario] rapid movement (power 579.853942, excess 329.85)
+[05:58:45] [INFO] [antycheat] [Mario] rapid movement (power 278.996093, excess 28.99)
+[05:58:45] [INFO] [antycheat] [Mario] rapid movement (power 379.036224, excess 129.03)
+[05:58:46] [INFO] [antycheat] [Mario] rapid movement (power 480.218566, excess 230.21)
+[05:58:47] [INFO] [antycheat] [Mario] rapid movement (power 583.307434, excess 333.30)
+[05:58:47] [INFO] [antycheat] [Mario] rapid movement (power 602.082397, excess 352.08)
+[05:58:48] [INFO] [antycheat] [Mario] rapid movement (power 611.328491, excess 361.32)
+[05:58:48] [INFO] [antycheat] [Mario] rapid movement (power 615.461975, excess 365.46)
+[05:58:50] [INFO] [antycheat] [Mario] rapid movement (power 302.066375, excess 52.06)
+[05:58:50] [INFO] [antycheat] [Mario] rapid movement (power 376.580841, excess 126.58)
+[05:58:51] [INFO] [antycheat] [Mario] rapid movement (power 490.185455, excess 240.18)
+[05:58:52] [INFO] [antycheat] [Mario] rapid movement (power 579.626831, excess 329.62)
+[05:58:52] [INFO] [antycheat] [Mario] rapid movement (power 608.900451, excess 358.90)
+[05:58:53] [INFO] [antycheat] [Mario] rapid movement (power 608.992248, excess 358.99)
+[05:58:55] [INFO] [antycheat] [Mario] rapid movement (power 567.243225, excess 317.24)
+[05:58:56] [INFO] [antycheat] [Mario] rapid movement (power 611.965515, excess 361.96)
+[05:58:58] [INFO] [antycheat] [Mario] rapid movement (power 644.249572, excess 394.24)
+[05:58:59] [INFO] [antycheat] [Mario] rapid movement (power 627.136230, excess 377.13)
+[05:59:00] [INFO] [antycheat] [Mario] rapid movement (power 628.184997, excess 378.18)
+[05:59:01] [INFO] [antycheat] [Mario] rapid movement (power 628.685180, excess 378.68)
+[05:59:02] [INFO] [antycheat] [Mario] rapid movement (power 950.883544, excess 700.88)
+[05:59:05] [INFO] [antycheat] [Mario] rapid movement (power 1402.941772, excess 1152.94)
+[05:59:06] [INFO] [antycheat] [Mario] rapid movement (power 1477.247802, excess 1227.24)
+[05:59:07] [INFO] [antycheat] [Mario] rapid movement (power 1512.842285, excess 1262.84)
+[05:59:10] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:10] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:11] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:11] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:11] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:12] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:13] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:13] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:13] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:14] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:14] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:15] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:16] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:16] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:16] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:17] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:17] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:18] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:18] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:19] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:19] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:19] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:20] [INFO] [antycheat] [Mario] rapid movement (power 1158.336303, excess 908.33)
+[05:59:20] [INFO] [join] [disconnect] [Mario] has left the server (0:1)
+[05:59:20] [INFO] >> [quit] [Mario] PcLoss: 0.00 proc, Conn time: 228949 ms, MessReceiv: 4661, Bytes received: 338214, MessagesSend: 13662, Bytes sent: 2343437, Msg Receiv in last second: 1
+[05:59:20] [INFO] [admin] [Vincent Dabrasco] left admin duty. (2h 9m)
+[18:18:40] [INFO] [change] [Vincent Dabrasco] [playerid 0] Changing name from [felipe] to [Vincent Dabrasco].
+[18:18:41] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 2m. IP: 127.0.0.1
+[18:18:41] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[18:18:41] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[18:18:47] [INFO] [admin] [Mario] enter admin duty.
+[18:19:07] [INFO] [admin] [Vincent Dabrasco] left admin duty. (0h 16m)
+[18:56:12] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[18:56:12] [INFO] >> [quit] [Vincent Dabrasco] PcLoss: 0.00 proc, Conn time: 2254546 ms, MessReceiv: 1324, Bytes received: 83129, MessagesSend: 13773, Bytes sent: 451216, Msg Receiv in last second: 1
+[21:32:02] [INFO] [change] [Vincent Dabrasco] [playerid 0] Changing name from [felipe] to [Vincent Dabrasco].
+[21:32:03] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 2m. IP: 127.0.0.1
+[21:32:03] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[21:32:03] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[21:32:28] [INFO] [admin] [Mario] enter admin duty.
+[21:32:43] [INFO] [door] [Mario] Enters LSMPD (d4)
+[21:32:56] [INFO] [door] [Mario] Exits LSMPD (d4)
+[21:32:57] [INFO] [door] [Mario] Enters LSMPD (d4)
+[21:32:58] [INFO] [door] [Mario] Exits LSMPD (d4)
+[21:32:58] [INFO] [door] [Mario] Enters LSMPD (d4)
+[21:33:12] [INFO] [admin] [actor] [Mario] created actor UID 8 (policjant)
+[21:34:15] [INFO] [admin] [actor] [Mario] created actor UID 9 (policeman)
+[21:34:38] [INFO] [admin] [actor] [Mario] created actor UID 10 (policeman)
+[21:35:22] [INFO] [admin] [arestart] [Mario] has forced game server to be restarted
+[21:35:22] [INFO] [join] [disconnect] [Mario] has left the server (0:1)
+[21:35:22] [INFO] >> [quit] [Mario] PcLoss: 0.00 proc, Conn time: 200970 ms, MessReceiv: 2392, Bytes received: 175601, MessagesSend: 10598, Bytes sent: 1213473, Msg Receiv in last second: 26
+[21:35:22] [INFO] [admin] [Vincent Dabrasco] left admin duty. (1h 23m)
+[21:35:40] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 3m. IP: 127.0.0.1
+[21:35:40] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (1957.160, -2337.570, 13.658, 1121060127)
+[21:35:40] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[21:35:59] [INFO] [admin] [Mario] enter admin duty.
+[21:38:32] [INFO] [door] [Mario] Exits LSMPD (d4)
+[21:38:32] [INFO] [door] [Mario] Enters LSMPD (d4)
+[21:38:45] [INFO] [door] [Mario] Exits LSMPD (d4)
+[21:42:27] [INFO] [door] [Mario] Enters LSMPD (d4)
+[21:42:29] [INFO] [admin] [arestart] [Mario] has forced game server to be restarted
+[21:42:29] [INFO] [join] [disconnect] [Mario] has left the server (0:1)
+[21:42:29] [INFO] >> [quit] [Mario] PcLoss: 0.00 proc, Conn time: 628400 ms, MessReceiv: 6098, Bytes received: 454196, MessagesSend: 31722, Bytes sent: 3579307, Msg Receiv in last second: 11
+[21:42:29] [INFO] [admin] [Vincent Dabrasco] left admin duty. (2h 11m)
+[21:42:50] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 5m. IP: 127.0.0.1
+[21:42:50] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (1951.599, -2336.469, 13.649, 1132892258)
+[21:42:50] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[21:43:09] [INFO] [admin] [Mario] enter admin duty.
+[21:45:57] [INFO] [admin] [door] [Mario] teleported to 5
+[21:46:09] [INFO] [door] [Mario] Enters LSMPD (d4)
+[21:46:13] [INFO] [admin] [arestart] [Mario] has forced game server to be restarted
+[21:46:13] [INFO] [join] [disconnect] [Mario] has left the server (0:1)
+[21:46:13] [INFO] >> [quit] [Mario] PcLoss: 0.00 proc, Conn time: 851837 ms, MessReceiv: 10014, Bytes received: 745276, MessagesSend: 48717, Bytes sent: 5881931, Msg Receiv in last second: 16
+[21:46:13] [INFO] [admin] [Vincent Dabrasco] left admin duty. (2h 10m)
+[21:46:31] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 7m. IP: 127.0.0.1
+[21:46:31] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (1965.459, -2336.729, 13.673, 1132892258)
+[21:46:31] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[21:47:03] [INFO] [door] [Vincent Dabrasco] Exits LSMPD (d4)
+[21:47:04] [INFO] [door] [Vincent Dabrasco] Enters LSMPD (d4)
+[21:47:42] [INFO] [admin] [arestart] [Vincent Dabrasco] has forced game server to be restarted
+[21:47:42] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[21:47:42] [INFO] >> [quit] [Vincent Dabrasco] PcLoss: 0.00 proc, Conn time: 941514 ms, MessReceiv: 11114, Bytes received: 820766, MessagesSend: 52156, Bytes sent: 6011277, Msg Receiv in last second: 3
+[21:48:01] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 7m. IP: 127.0.0.1
+[21:48:01] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (1962.489, -2337.350, 13.668, 1101547805)
+[21:48:01] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[21:48:13] [INFO] [admin] [Vincent Dabrasco] set vw [Vincent Dabrasco] to 151
+[21:48:18] [INFO] [admin] [Vincent Dabrasco] set vw [Vincent Dabrasco] to 0
+[21:48:19] [INFO] [admin] [Vincent Dabrasco] set vw [Vincent Dabrasco] to 0
+[21:48:25] [INFO] [admin] [Vincent Dabrasco] set vw [Vincent Dabrasco] to 151
+[21:48:30] [INFO] [door] [Vincent Dabrasco] Exits LSMPD (d4)
+[21:48:35] [INFO] [door] [Vincent Dabrasco] Enters LSMPD (d4)
+[21:48:38] [INFO] [admin] [arestart] [Vincent Dabrasco] has forced game server to be restarted
+[21:48:38] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[21:48:38] [INFO] >> [quit] [Vincent Dabrasco] PcLoss: 0.00 proc, Conn time: 997292 ms, MessReceiv: 11713, Bytes received: 859443, MessagesSend: 56573, Bytes sent: 6172679, Msg Receiv in last second: 4
+[21:48:56] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 7m. IP: 127.0.0.1
+[21:48:56] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (1952.439, -2336.679, 13.650, 1132357288)
+[21:48:56] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[21:48:59] [INFO] [admin] [Vincent Dabrasco] set vw [Vincent Dabrasco] to 151
+[21:51:10] [INFO] [admin] [arestart] [Vincent Dabrasco] has forced game server to be restarted
+[21:51:10] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[21:51:10] [INFO] >> [quit] [Vincent Dabrasco] PcLoss: 0.00 proc, Conn time: 1149571 ms, MessReceiv: 12311, Bytes received: 899472, MessagesSend: 58439, Bytes sent: 6233865, Msg Receiv in last second: 25
+[21:51:29] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 7m. IP: 127.0.0.1
+[21:51:29] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (1960.140, -2336.320, 13.663, 1123192668)
+[21:51:29] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[21:51:51] [INFO] [door] [Vincent Dabrasco] Exits LSMPD (d4)
+[21:51:51] [INFO] [door] [Vincent Dabrasco] Enters LSMPD (d4)
+[21:57:18] [INFO] [admin] [arestart] [Vincent Dabrasco] has forced game server to be restarted
+[21:57:18] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[21:57:18] [INFO] >> [quit] [Vincent Dabrasco] PcLoss: 0.00 proc, Conn time: 1516961 ms, MessReceiv: 13156, Bytes received: 956889, MessagesSend: 63274, Bytes sent: 6374511, Msg Receiv in last second: 4
+[21:57:35] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 7m. IP: 127.0.0.1
+[21:57:35] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (1964.880, -2335.239, 13.672, 1133877920)
+[21:57:35] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[21:57:39] [INFO] [scold] [system] [Vincent Dabrasco] > [Vincent Dabrasco] 30d AntyCheat: Rapid movement m1 ds6.37 dx4.76 dy1.60 dz0.00
+[21:57:44] [INFO] [admin] [Mario] enter admin duty.
+[21:57:45] [INFO] [admin] [unaj] [Mario] > [Mario]
+[21:57:45] [INFO] [spawn] [Mario] spawned at default spawn.
+[21:57:58] [INFO] [door] [Mario] Enters LSMPD (d4)
+[21:58:01] [INFO] [admin] [arestart] [Mario] has forced game server to be restarted
+[21:58:01] [INFO] [join] [disconnect] [Mario] has left the server (0:1)
+[21:58:01] [INFO] >> [quit] [Mario] PcLoss: 0.00 proc, Conn time: 1559932 ms, MessReceiv: 13674, Bytes received: 994344, MessagesSend: 66173, Bytes sent: 6656792, Msg Receiv in last second: 25
+[21:58:01] [INFO] [admin] [Vincent Dabrasco] left admin duty. (0h 14m)
+[21:58:18] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 7m. IP: 127.0.0.1
+[21:58:18] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (1955.760, -2336.370, 13.656, 1132933317)
+[21:58:18] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[21:58:23] [INFO] [scold] [system] [Vincent Dabrasco] > [Vincent Dabrasco] 30d AntyCheat: Rapid movement m1 ds6.94 dx3.23 dy3.71 dz0.00
+[21:58:26] [INFO] [admin] [Mario] enter admin duty.
+[21:58:29] [INFO] [admin] [unaj] [Mario] > [Mario]
+[21:58:29] [INFO] [spawn] [Mario] spawned at default spawn.
+[21:58:38] [INFO] [door] [Mario] Enters LSMPD (d4)
+[21:58:45] [INFO] [admin] [Mario] checked his pos
+[22:00:04] [INFO] [admin] [arestart] [Mario] has forced game server to be restarted
+[22:00:04] [INFO] [join] [disconnect] [Mario] has left the server (0:1)
+[22:00:04] [INFO] >> [quit] [Mario] PcLoss: 0.00 proc, Conn time: 1682889 ms, MessReceiv: 14237, Bytes received: 1033161, MessagesSend: 69046, Bytes sent: 6932956, Msg Receiv in last second: 4
+[22:00:04] [INFO] [admin] [Vincent Dabrasco] left admin duty. (0h 23m)
+[22:00:26] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 7m. IP: 127.0.0.1
+[22:00:26] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (1961.869, -2336.760, 13.666, 1121502626)
+[22:00:26] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[22:00:35] [INFO] [admin] [Vincent Dabrasco] checked his pos
+[22:00:53] [INFO] [door] [Vincent Dabrasco] Exits LSMPD (d4)
+[22:02:17] [INFO] [admin] [Vincent Dabrasco] set vw [Vincent Dabrasco] to 151
+[22:02:55] [INFO] [door] [Vincent Dabrasco] Exits LSMPD (d4)
+[22:03:41] [INFO] [antycheat] [Vincent Dabrasco] rapid movement (power 295.300292, excess 45.30)
+[22:03:42] [INFO] [scold] [system] [Vincent Dabrasco] > [Vincent Dabrasco] 30d AntyCheat: Rapid movement m1 ds7.10 dx0.19 dy6.60 dz0.29
+[22:03:45] [INFO] [admin] [unaj] [Vincent Dabrasco] > [Vincent Dabrasco]
+[22:03:45] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[22:03:54] [INFO] [antycheat] [Vincent Dabrasco] rapid movement (power 510.817993, excess 260.81)
+[22:03:55] [INFO] [scold] [system] [Vincent Dabrasco] > [Vincent Dabrasco] 30d AntyCheat: Rapid movement m1 ds5.45 dx2.67 dy2.70 dz0.06
+[22:03:57] [INFO] [admin] [unaj] [Vincent Dabrasco] > [Vincent Dabrasco]
+[22:03:57] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[22:03:59] [INFO] [antycheat] [Vincent Dabrasco] rapid movement (power 383.263336, excess 133.26)
+[22:04:00] [INFO] [antycheat] [Vincent Dabrasco] rapid movement (power 390.356414, excess 140.35)
+[22:04:00] [INFO] [scold] [system] [Vincent Dabrasco] > [Vincent Dabrasco] 30d AntyCheat: Rapid movement m1 ds7.18 dx4.06 dy2.90 dz0.21
+[22:04:02] [INFO] [admin] [unaj] [Vincent Dabrasco] > [Vincent Dabrasco]
+[22:04:02] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[22:04:05] [INFO] [antycheat] [Vincent Dabrasco] rapid movement (power 300.783325, excess 50.78)
+[22:04:05] [INFO] [scold] [system] [Vincent Dabrasco] > [Vincent Dabrasco] 30d AntyCheat: Rapid movement m1 ds6.65 dx5.42 dy0.94 dz0.28
+[22:04:05] [INFO] [scold] [system] [Vincent Dabrasco] > [Vincent Dabrasco] -1d Teleport hack (DX: 992.7, DY: 481.7, V:0/0/0)
+[22:04:05] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:2)
+[22:04:05] [INFO] >> [quit] [Vincent Dabrasco] PcLoss: 0.00 proc, Conn time: 1924136 ms, MessReceiv: 18901, Bytes received: 1360076, MessagesSend: 84077, Bytes sent: 7382389, Msg Receiv in last second: 24
+[22:24:25] [INFO] [change] [Vincent Dabrasco] [playerid 0] Changing name from [felipe] to [Vincent Dabrasco].
+[22:24:26] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 10m. IP: 127.0.0.1
+[22:24:26] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS
+[22:59:38] [INFO] [change] [Vincent Dabrasco] [playerid 0] Changing name from [felipe] to [Vincent Dabrasco].
+[22:59:39] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 10m. IP: 192.168.1.44
+[22:59:39] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS.home
+[22:59:43] [INFO] [admin] [unaj] [Vincent Dabrasco] > [Vincent Dabrasco]
+[22:59:43] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[22:59:57] [INFO] [admin] [Mario] enter admin duty.
+[23:01:52] [INFO] [admin] [arestart] [Mario] has forced game server to be restarted
+[23:01:52] [INFO] [join] [disconnect] [Mario] has left the server (0:1)
+[23:01:52] [INFO] >> [quit] [Mario] PcLoss: 0.00 proc, Conn time: 138518 ms, MessReceiv: 1124, Bytes received: 75899, MessagesSend: 4396, Bytes sent: 426467, Msg Receiv in last second: 11
+[23:01:52] [INFO] [admin] [Vincent Dabrasco] left admin duty. (0h 26m)
+[23:02:12] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 10m. IP: 192.168.1.44
+[23:02:12] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (2320.689, -1489.420, 23.740, 1132777505)
+[23:02:12] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS.home
+[23:05:45] [INFO] [admin] [arestart] [Vincent Dabrasco] has forced game server to be restarted
+[23:05:45] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[23:05:45] [INFO] >> [quit] [Vincent Dabrasco] PcLoss: 0.00 proc, Conn time: 371048 ms, MessReceiv: 2056, Bytes received: 138089, MessagesSend: 6296, Bytes sent: 467937, Msg Receiv in last second: 4
+[23:06:06] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 10m. IP: 192.168.1.44
+[23:06:06] [INFO] [spawn] [Vincent Dabrasco] spawned in previous position. (2403.909, -1513.670, 24.006, 1132489998)
+[23:06:06] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS.home
+[23:06:32] [INFO] [chat] [Vincent Dabrasco] [a:0] asf
+[23:24:52] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[23:24:52] [INFO] >> [quit] [Vincent Dabrasco] PcLoss: 0.00 proc, Conn time: 1517878 ms, MessReceiv: 4662, Bytes received: 317476, MessagesSend: 13777, Bytes sent: 641681, Msg Receiv in last second: 1
+[00:18:48] [INFO] [change] [Vincent Dabrasco] [playerid 0] Changing name from [felipe] to [Vincent Dabrasco].
+[00:18:49] [INFO] [join] [login] [Vincent Dabrasco] ID 0, UID 1, GUID 1. Cash: 7130 USD. Bank: 2 USD. Played: 18h 11m. IP: 192.168.1.44
+[00:18:49] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[00:18:49] [INFO] [hostname] [Vincent Dabrasco] DESKTOP-S3RGENS.home
+[00:19:05] [INFO] [death] [Vincent Dabrasco] self-reported or system-called death. Killer: 65535, reason: 54
+[00:19:09] [INFO] [admin] [bw] [Vincent Dabrasco] Vincent Dabrasco
+[00:19:15] [INFO] [admin] [Mario] enter admin duty.
+[00:19:18] [INFO] [antycheat] [Mario] rapid movement (power 686.860534, excess 436.86)
+[00:19:21] [INFO] [admin] [Vincent Dabrasco] left admin duty. (0h 5m)
+[00:19:27] [INFO] [admin] [Mario] enter admin duty.
+[00:19:31] [INFO] [admin] [Vincent Dabrasco] left admin duty. (0h 3m)
+[00:19:31] [INFO] [scold] [system] [Vincent Dabrasco] > [Vincent Dabrasco] 30d AntyCheat: Rapid movement m1 ds0.00 dx0.00 dy0.00 dz0.00
+[00:19:35] [INFO] [admin] [unaj] [Vincent Dabrasco] > [Vincent Dabrasco]
+[00:19:35] [INFO] [spawn] [Vincent Dabrasco] spawned at default spawn.
+[00:19:40] [INFO] [antycheat] [Vincent Dabrasco] rapid movement (power 375.502929, excess 125.50)
+[00:20:29] [INFO] [object] [Vincent Dabrasco] has started to edit the object UID 7042
+[00:26:26] [INFO] [admin] [arestart] [Vincent Dabrasco] has forced game server to be restarted
+[00:26:26] [INFO] [join] [disconnect] [Vincent Dabrasco] has left the server (0:1)
+[00:26:26] [INFO] >> [quit] [Vincent Dabrasco] PcLoss: 0.00 proc, Conn time: 461280 ms, MessReceiv: 3720, Bytes received: 261575, MessagesSend: 6589, Bytes sent: 327911, Msg Receiv in last second: 5
